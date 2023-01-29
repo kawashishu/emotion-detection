@@ -11,6 +11,6 @@ dependencies:
     - gunicorn==20.0.4
     - opencv-python==4.5.1.48
     - imutils==0.5.4
-    - tensorflow==2.4.0
+    - tensorflow==2.2
     - streamlit==0.74.1
     - streamlit-webrtc
