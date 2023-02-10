@@ -107,12 +107,6 @@ Run the detection_emotion_video python file
 python streamlit run app.py
 ```
 
-# Authors
-- Harry Tsang 
-- Joy Sng 
-- Alvin Lee 
-- Santosh Yadaw 
-
 # Acknowledgements
 - Dataset: https://www.kaggle.com/mahmoudima/mma-facial-expression
 
