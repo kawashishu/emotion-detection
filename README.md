@@ -107,6 +107,13 @@ Run the detection_emotion_video python file
 python streamlit run app.py
 ```
 
+# I have a lot of references about Tutorials on the author's channels for this project. Thanks for the author's sharing.
+# Authors
+- Harry Tsang 
+- Joy Sng 
+- Alvin Lee 
+- Santosh Yadaw 
+
 # Acknowledgements
 - Dataset: https://www.kaggle.com/mahmoudima/mma-facial-expression
 
